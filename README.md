@@ -60,5 +60,3 @@ This project is licensed under the MIT License.
 Happy Serverless Shipping! 🚀
 
 ---
-
-Would you like me to help you auto-generate a `template.yaml` or customize it for your function?
