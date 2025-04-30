@@ -9,16 +9,6 @@ This project automates the packaging and deployment of an AWS Lambda function us
 - Define infrastructure with `template.yaml`
 - Streamlined deployment using SAM commands
 
-## 📁 Project Structure
-
-lambda-deployment/
-├── hello_world/              # Lambda function code
-│   └── app.py
-├── template.yaml             # SAM template (infrastructure definition)
-├── requirements.txt          # Dependencies for Lambda
-├── samconfig.toml            # SAM CLI config (auto-generated)
-├── README.md                 # Project documentation
-
 ## ⚙️ Prerequisites
 
 - AWS CLI configured with access credentials
